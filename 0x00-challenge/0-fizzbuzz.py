@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """ FizzBuzz
 """
@@ -38,4 +37,3 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-
